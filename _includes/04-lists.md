@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+* Like to eat
+    * Pizza
+    * Sushi
+    * Ice Cream
+* Like to hear
+    * The Beatles
+    * Green Day
+    * Los Hermanos
+    * Foo Fighters
+    
